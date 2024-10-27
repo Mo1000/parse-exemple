@@ -1,0 +1,2 @@
+require("./deleteProduct");
+require("./updateProduct");
